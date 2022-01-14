@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sacha or Soxer
-- 👀 I’m interested in programming and security
+- 👀 I’m interested in programming, networks and security
 - 🌱 I’m currently learning the java Spring Framework and continuous integration with docker and jenkins
 - 📫 How to reach me: For now the easiest way would be to leave an issue on one of my repos.
 
